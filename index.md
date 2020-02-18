@@ -1,5 +1,6 @@
 # Guoshun Hao's Homepage 郝国舜的个人主页
 Welcome to Guoshun Hao's Homepage.
+Remember the addr: [Guoshunhao.github.io](Guoshunhao.github.io)
 
 GuoshunHao.github.io
 

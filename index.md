@@ -5,6 +5,7 @@ GuoshunHao.github.io
 
 ## 算法之LeetCode刷题 - 每日一题
 
+1. Leetcode-1-TwoSum.ipynb link(./Leetcode-1-TwoSum.ipynb)
 
 ## Publication 出版物
 

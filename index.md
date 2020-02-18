@@ -1,12 +1,17 @@
 # Guoshun Hao's Homepage 郝国舜的个人主页
 Welcome to Guoshun Hao's Homepage.
-Remember the addr: [Guoshunhao.github.io](https://Guoshunhao.github.io)
 
-GuoshunHao.github.io
+Remember the addr: [Guoshunhao.github.io](https://Guoshunhao.github.io)
 
 ## 算法之LeetCode刷题 - 每日一题
 
-[1. Leetcode-1-TwoSum](Leetcode-1-TwoSum.ipynb)
+1. [Leetcode-1-TwoSum](Leetcode-1-TwoSum.ipynb)
+2. [Leetcode-2-Add Two Numbers](Leetcode-2-Add Two Numbers.ipynb)
+3. [Leetcode-3-Longest Substring Without Repeating Characters](Leetcode-3-Longest Substring Without Repeating Characters.ipynb)
+4. [LeetCode-4-Median of Two Sorted Arrays](LeetCode-4-Median of Two Sorted Arrays.ipynb)
+5. [LeetCode 5. Longest Palindromic Substring](LeetCode 5. Longest Palindromic Substring.ipynb)
+6. [LeetCode 6. ZigZag Conversion](LeetCode 6. ZigZag Conversion.ipynb)
+
 
 ## Publication 出版物
 

@@ -26,5 +26,7 @@ Remember the addr: [Guoshunhao.github.io](https://Guoshunhao.github.io)
 
 ## Projects 项目
 
+## Ebooks
 
+- [古文观止.mobi](./KindleEbooks/古文观止.mobi)
 

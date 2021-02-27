@@ -33,5 +33,7 @@ Remember the addr: [Guoshunhao.github.io](https://Guoshunhao.github.io)
 - [古文观止](./KindleEbooks/古文观止.mobi)
 - [笠翁对韵](./KindleEbooks/笠翁对韵-详解.mobi)
 - [其实我们一直活在春秋战国·珍藏版大全集](./KindleEbooks/实我们一直活在春秋战国·珍藏版大全集.mobi)
-
+- [人体简史](./Ren Ti Jian Shi (Ni De Shen Ti - Bi Er _Bu Lai Sen.azw3)
+- [模型思维](./Mo Xing Si Wei (24Zhong Rang Re - Si Ke Te _Pei Qi.azw3)
+- 
 
